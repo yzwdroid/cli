@@ -1,8 +1,7 @@
 # Go Modules
 
-go mod init github.com/yzwdroid/go-modules-example
-
 ```bash
+go mod init github.com/yzwdroid/go-modules-example
 // Create by go init
 go.mod
 // Created by go build or go test
